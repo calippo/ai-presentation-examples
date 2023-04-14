@@ -28,4 +28,4 @@ The clustering directory contains examples of clustering using the following tec
 Run with: ```make clustering```
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+This repository is licensed under the Apache License, Version 2.0. See the LICENSE file for more information.
