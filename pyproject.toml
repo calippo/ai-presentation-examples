@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "plots"
+version = "0.1.0"
+description = ""
+authors = ["Claudio Caletti"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.21.5"
+matplotlib = "^3.7.1"
+sklearn = "^0.0.post1"
+scikit-learn = "^1.2.2"
