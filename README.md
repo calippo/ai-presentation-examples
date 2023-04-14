@@ -7,17 +7,25 @@ To get started with these examples, clone the repository to your local machine u
 git clone https://github.com/calippo/ai-presentation-examples.git
 Once you have cloned the repository, you can explore the examples in the regression and clustering directories.
 
+Install dependencies with: ```make install```
+
 ## Examples
 ### Regression
 The regression directory contains examples of regression using the following techniques:
 
-Linear Regression
+- Linear Regression
+
+Run with: ```make regression```
+
+Plots are shown sequentially, close the first one to see the second one.
 
 ### Clustering
 The clustering directory contains examples of clustering using the following techniques:
 
 - K-Means Clustering
 - Hierarchical Clustering
+
+Run with: ```make clustering```
 
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
